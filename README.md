@@ -9,6 +9,10 @@ This simple project demonstrates how to use an ultrasonic distance sensor to mea
 
 The Distance Sensor project is an ESP32-based application that uses an HC-SR04 ultrasonic sensor to measure distance in centimeters. The sensor works by emitting an ultrasonic pulse and then detecting the time it takes for the pulse to reflect off nearby objects and return to the sensor. This time of flight is then used to calculate the distance.
 
+# here i change the Distance Sensor to 259
+
+<img width="1521" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٥ في ٩ ١١ ٠٩ م" src="https://github.com/ijana7/Controlling-the-robot-arm/assets/173642526/5dd3b8c9-04c8-4d49-8796-8af7ddc03b25">
+
 ## Components
 
 - ESP32 development board
